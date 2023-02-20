@@ -4,8 +4,7 @@
 
 ## Welcome! 👋
 <br>
-<img src="./images/img1.png" alt="Img">
-<img src="./images/img2.png" alt="Img">
+<img src="./grid-template.png" alt="img-grid">
 
 <img src="./images/img3.png" alt="Img">
 <br>  
